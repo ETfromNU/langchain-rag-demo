@@ -1,0 +1,10 @@
+langchain 
+langchain-community 
+langchainhub
+langchain-google-vertexai
+langchain-google-community
+langchain-chroma 
+bs4
+google-cloud-storage
+unstructured[pdf]
+poppler-utils
